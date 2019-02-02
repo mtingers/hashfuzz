@@ -1,0 +1,1 @@
+from hashfuzz import *
